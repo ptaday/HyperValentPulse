@@ -1,0 +1,1280 @@
+{
+  "sample_size": 1291,
+  "classification": {
+    "counts": {
+      "Bullish": 212,
+      "Bearish": 6,
+      "Neutral": 1073,
+      "Unknown": 0
+    },
+    "percentages": {
+      "Bullish": 16.42,
+      "Bearish": 0.46,
+      "Neutral": 83.11,
+      "Unknown": 0
+    }
+  },
+  "amounts_by_class": {
+    "Bullish": 21438444.97338571,
+    "Bearish": 5944.50486849,
+    "Neutral": 16255496.96727454,
+    "Unknown": 0
+  },
+  "final_verdict": {
+    "bullish_count": 212,
+    "bearish_count": 6,
+    "bullish_share_pct": 97.25,
+    "bearish_share_pct": 2.75,
+    "considered_total": 218,
+    "verdict": "Bullish"
+  },
+  "unique_tokens_seen": {
+    "UBTC": 35,
+    "feUSD": 36,
+    "WHYPE": 442,
+    "PT-kHYPE-13NOV2025": 5,
+    "hHyperEvmPT-kHYPE-13NOV2025": 2,
+    "UETH": 47,
+    "USD₮0": 177,
+    "UPUMP": 141,
+    "hbUSDT": 16,
+    "PURR": 26,
+    "USDHL": 43,
+    "kHYPE": 40,
+    "SY-kHYPE": 8,
+    "stHYPE": 15,
+    "USDXL": 9,
+    "hHyperEvmUBTC": 1,
+    "wstHYPE": 9,
+    "SY-hbUSDT": 6,
+    "YT-hbUSDT-18DEC2025": 2,
+    "PT-hbUSDT-18DEC2025": 2,
+    "feUSDhl": 1,
+    "CATBAL": 28,
+    "XAUt0": 2,
+    "USOL": 1,
+    "hwHLP": 10,
+    "PGAY": 6,
+    "USDe": 25,
+    "WHLP": 2,
+    "LIQD": 2,
+    "variableDebtHyperEvmWHYPE": 1,
+    "hyUSDHL": 1,
+    "BUDDY": 5,
+    "BULBUL": 4,
+    "hHyperEvmkHYPE": 1,
+    "variableDebtHyperEvmUBTC": 1,
+    "hHyperEvmUSDT0": 3,
+    "hyUETH": 1,
+    "USH": 4,
+    "stkUSDXL": 2,
+    "LHYPE": 37,
+    "LOOP": 2,
+    "hHyperEvmUSDHL": 1,
+    "HypurrScore-23": 1,
+    "liquidHYPE": 4,
+    "SY-liquidHYPE": 2,
+    "PENDLE-LPT": 2,
+    "PiP": 5,
+    "hykHYPE": 1,
+    "UFART": 44,
+    "variableDebtUSDXL": 1,
+    "hyWHYPE": 1,
+    "mHYPE": 1,
+    "PEG": 1,
+    "hbHYPE": 9,
+    "SY-hbHYPE": 3,
+    "YT-hbHYPE-18DEC2025": 1,
+    "PT-hbHYPE-18DEC2025": 1,
+    "feHYPE": 1,
+    "hbBTC": 1,
+    "pHBEAT-1": 1,
+    "hHyperEvmwstHYPE": 1,
+    "LATINA": 1,
+    "HLP0": 2,
+    "variableDebtHyperEvmwstHYPE": 1,
+    "feUSDT0": 1,
+    "squirtcoin": 2,
+    "haHYPE": 1
+  },
+  "token_amounts": {
+    "UBTC": 0.19661816,
+    "feUSD": 6507.21805714,
+    "WHYPE": 12491.30686587,
+    "PT-kHYPE-13NOV2025": 137.98480155,
+    "hHyperEvmPT-kHYPE-13NOV2025": 4.22510396,
+    "UETH": 38.43430877,
+    "USD₮0": 193949.976034,
+    "UPUMP": 36976095.47233701,
+    "hbUSDT": 9803.73903645,
+    "PURR": 152274.48802352,
+    "USDHL": 46548.525486,
+    "kHYPE": 4037.62272564,
+    "SY-kHYPE": 150.15206598,
+    "stHYPE": 293.27043801,
+    "USDXL": 3077.0777582,
+    "hHyperEvmUBTC": 0.08032057,
+    "wstHYPE": 89.49009347,
+    "SY-hbUSDT": 45947.43708191,
+    "YT-hbUSDT-18DEC2025": 46777.100119,
+    "PT-hbUSDT-18DEC2025": 46777.100119,
+    "feUSDhl": 3434.33776122,
+    "CATBAL": 626.57998081,
+    "XAUt0": 0.030162,
+    "USOL": 20.99909312,
+    "hwHLP": 5266.068111,
+    "PGAY": 10000.00024,
+    "USDe": 3221.00448965,
+    "WHLP": 179.004906,
+    "LIQD": 2789.92616125,
+    "variableDebtHyperEvmWHYPE": 117.55610152,
+    "hyUSDHL": 5632.360142,
+    "BUDDY": 17333.192216,
+    "BULBUL": 28822.16444445,
+    "hHyperEvmkHYPE": 184,
+    "variableDebtHyperEvmUBTC": 0.00046028,
+    "hHyperEvmUSDT0": 181.854153,
+    "hyUETH": 1.68703623,
+    "USH": 106.13517869,
+    "stkUSDXL": 1998.87658977,
+    "LHYPE": 4641.92604742,
+    "LOOP": 311.33090594,
+    "hHyperEvmUSDHL": 199.57152,
+    "HypurrScore-23": 701.14169657,
+    "liquidHYPE": 103.98072821,
+    "SY-liquidHYPE": 26.00197927,
+    "PENDLE-LPT": 20.71818685,
+    "PiP": 16.791617,
+    "hykHYPE": 49.99913497,
+    "UFART": 10850.443348,
+    "variableDebtUSDXL": 1017.02468318,
+    "hyWHYPE": 61.01622033,
+    "mHYPE": 50.85258082,
+    "PEG": 1196.06088347,
+    "hbHYPE": 5.58841816,
+    "SY-hbHYPE": 10.57544105,
+    "YT-hbHYPE-18DEC2025": 10.70224375,
+    "PT-hbHYPE-18DEC2025": 10.70224375,
+    "feHYPE": 1.19621488,
+    "hbBTC": 0.121,
+    "pHBEAT-1": 166.5070395,
+    "hHyperEvmwstHYPE": 10.23870479,
+    "LATINA": 1404.69902353,
+    "HLP0": 14857.369617,
+    "variableDebtHyperEvmwstHYPE": 3.09163455,
+    "feUSDT0": 48.26337853,
+    "squirtcoin": 39193.656416,
+    "haHYPE": 0.2
+  },
+  "token_classification_counts": {
+    "UBTC": {
+      "Bullish": 3,
+      "Bearish": 0,
+      "Neutral": 32,
+      "Unknown": 0,
+      "total": 35
+    },
+    "feUSD": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 36,
+      "Unknown": 0,
+      "total": 36
+    },
+    "WHYPE": {
+      "Bullish": 51,
+      "Bearish": 2,
+      "Neutral": 389,
+      "Unknown": 0,
+      "total": 442
+    },
+    "PT-kHYPE-13NOV2025": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 3,
+      "Unknown": 0,
+      "total": 5
+    },
+    "hHyperEvmPT-kHYPE-13NOV2025": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 2
+    },
+    "UETH": {
+      "Bullish": 10,
+      "Bearish": 0,
+      "Neutral": 37,
+      "Unknown": 0,
+      "total": 47
+    },
+    "USD₮0": {
+      "Bullish": 21,
+      "Bearish": 0,
+      "Neutral": 156,
+      "Unknown": 0,
+      "total": 177
+    },
+    "UPUMP": {
+      "Bullish": 38,
+      "Bearish": 1,
+      "Neutral": 102,
+      "Unknown": 0,
+      "total": 141
+    },
+    "hbUSDT": {
+      "Bullish": 3,
+      "Bearish": 0,
+      "Neutral": 13,
+      "Unknown": 0,
+      "total": 16
+    },
+    "PURR": {
+      "Bullish": 7,
+      "Bearish": 0,
+      "Neutral": 19,
+      "Unknown": 0,
+      "total": 26
+    },
+    "USDHL": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 41,
+      "Unknown": 0,
+      "total": 43
+    },
+    "kHYPE": {
+      "Bullish": 10,
+      "Bearish": 0,
+      "Neutral": 30,
+      "Unknown": 0,
+      "total": 40
+    },
+    "SY-kHYPE": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 8,
+      "Unknown": 0,
+      "total": 8
+    },
+    "stHYPE": {
+      "Bullish": 4,
+      "Bearish": 0,
+      "Neutral": 11,
+      "Unknown": 0,
+      "total": 15
+    },
+    "USDXL": {
+      "Bullish": 4,
+      "Bearish": 0,
+      "Neutral": 5,
+      "Unknown": 0,
+      "total": 9
+    },
+    "hHyperEvmUBTC": {
+      "Bullish": 0,
+      "Bearish": 1,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "wstHYPE": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 7,
+      "Unknown": 0,
+      "total": 9
+    },
+    "SY-hbUSDT": {
+      "Bullish": 6,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 6
+    },
+    "YT-hbUSDT-18DEC2025": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 2
+    },
+    "PT-hbUSDT-18DEC2025": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 2
+    },
+    "feUSDhl": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "CATBAL": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 26,
+      "Unknown": 0,
+      "total": 28
+    },
+    "XAUt0": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 2,
+      "Unknown": 0,
+      "total": 2
+    },
+    "USOL": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "hwHLP": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 10,
+      "Unknown": 0,
+      "total": 10
+    },
+    "PGAY": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 6,
+      "Unknown": 0,
+      "total": 6
+    },
+    "USDe": {
+      "Bullish": 4,
+      "Bearish": 0,
+      "Neutral": 21,
+      "Unknown": 0,
+      "total": 25
+    },
+    "WHLP": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 2,
+      "Unknown": 0,
+      "total": 2
+    },
+    "LIQD": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 2,
+      "Unknown": 0,
+      "total": 2
+    },
+    "variableDebtHyperEvmWHYPE": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "hyUSDHL": {
+      "Bullish": 0,
+      "Bearish": 1,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "BUDDY": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 5,
+      "Unknown": 0,
+      "total": 5
+    },
+    "BULBUL": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 3,
+      "Unknown": 0,
+      "total": 4
+    },
+    "hHyperEvmkHYPE": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "variableDebtHyperEvmUBTC": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "hHyperEvmUSDT0": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 3,
+      "Unknown": 0,
+      "total": 3
+    },
+    "hyUETH": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "USH": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 4,
+      "Unknown": 0,
+      "total": 4
+    },
+    "stkUSDXL": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 2
+    },
+    "LHYPE": {
+      "Bullish": 11,
+      "Bearish": 0,
+      "Neutral": 26,
+      "Unknown": 0,
+      "total": 37
+    },
+    "LOOP": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 2,
+      "Unknown": 0,
+      "total": 2
+    },
+    "hHyperEvmUSDHL": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "HypurrScore-23": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "liquidHYPE": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 2,
+      "Unknown": 0,
+      "total": 4
+    },
+    "SY-liquidHYPE": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 2
+    },
+    "PENDLE-LPT": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 2
+    },
+    "PiP": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 5,
+      "Unknown": 0,
+      "total": 5
+    },
+    "hykHYPE": {
+      "Bullish": 0,
+      "Bearish": 1,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "UFART": {
+      "Bullish": 2,
+      "Bearish": 0,
+      "Neutral": 42,
+      "Unknown": 0,
+      "total": 44
+    },
+    "variableDebtUSDXL": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "hyWHYPE": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "mHYPE": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "PEG": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "hbHYPE": {
+      "Bullish": 3,
+      "Bearish": 0,
+      "Neutral": 6,
+      "Unknown": 0,
+      "total": 9
+    },
+    "SY-hbHYPE": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 2,
+      "Unknown": 0,
+      "total": 3
+    },
+    "YT-hbHYPE-18DEC2025": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "PT-hbHYPE-18DEC2025": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "feHYPE": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "hbBTC": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "pHBEAT-1": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "hHyperEvmwstHYPE": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "LATINA": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "HLP0": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 2,
+      "Unknown": 0,
+      "total": 2
+    },
+    "variableDebtHyperEvmwstHYPE": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    },
+    "feUSDT0": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1,
+      "Unknown": 0,
+      "total": 1
+    },
+    "squirtcoin": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 2,
+      "Unknown": 0,
+      "total": 2
+    },
+    "haHYPE": {
+      "Bullish": 1,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1
+    }
+  },
+  "token_classification_amounts": {
+    "UBTC": {
+      "Bullish": 0.00313512,
+      "Bearish": 0,
+      "Neutral": 0.19348304,
+      "Unknown": 0,
+      "total": 0.19661816
+    },
+    "feUSD": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 6507.21805714,
+      "Unknown": 0,
+      "total": 6507.21805714
+    },
+    "WHYPE": {
+      "Bullish": 8226.53309608,
+      "Bearish": 111.04422695,
+      "Neutral": 4153.72954284,
+      "Unknown": 0,
+      "total": 12491.30686587
+    },
+    "PT-kHYPE-13NOV2025": {
+      "Bullish": 4.22510396,
+      "Bearish": 0,
+      "Neutral": 133.75969759,
+      "Unknown": 0,
+      "total": 137.98480155
+    },
+    "hHyperEvmPT-kHYPE-13NOV2025": {
+      "Bullish": 4.22510396,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 4.22510396
+    },
+    "UETH": {
+      "Bullish": 12.42652314,
+      "Bearish": 0,
+      "Neutral": 26.00778563,
+      "Unknown": 0,
+      "total": 38.43430877
+    },
+    "USD₮0": {
+      "Bullish": 67496.346619,
+      "Bearish": 0,
+      "Neutral": 126453.629415,
+      "Unknown": 0,
+      "total": 193949.976034
+    },
+    "UPUMP": {
+      "Bullish": 21091233.113465,
+      "Bearish": 151.021044,
+      "Neutral": 15884711.337828,
+      "Unknown": 0,
+      "total": 36976095.47233701
+    },
+    "hbUSDT": {
+      "Bullish": 3165.96241924,
+      "Bearish": 0,
+      "Neutral": 6637.77661721,
+      "Unknown": 0,
+      "total": 9803.73903645
+    },
+    "PURR": {
+      "Bullish": 83814.50977563,
+      "Bearish": 0,
+      "Neutral": 68459.9782479,
+      "Unknown": 0,
+      "total": 152274.48802352
+    },
+    "USDHL": {
+      "Bullish": 13385.282648,
+      "Bearish": 0,
+      "Neutral": 33163.242838,
+      "Unknown": 0,
+      "total": 46548.525486
+    },
+    "kHYPE": {
+      "Bullish": 2373.26077787,
+      "Bearish": 0,
+      "Neutral": 1664.36194776,
+      "Unknown": 0,
+      "total": 4037.62272564
+    },
+    "SY-kHYPE": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 150.15206598,
+      "Unknown": 0,
+      "total": 150.15206598
+    },
+    "stHYPE": {
+      "Bullish": 75.1874935,
+      "Bearish": 0,
+      "Neutral": 218.08294451,
+      "Unknown": 0,
+      "total": 293.27043801
+    },
+    "USDXL": {
+      "Bullish": 1036.38134005,
+      "Bearish": 0,
+      "Neutral": 2040.69641815,
+      "Unknown": 0,
+      "total": 3077.0777582
+    },
+    "hHyperEvmUBTC": {
+      "Bullish": 0,
+      "Bearish": 0.08032057,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 0.08032057
+    },
+    "wstHYPE": {
+      "Bullish": 13.33010873,
+      "Bearish": 0,
+      "Neutral": 76.15998474,
+      "Unknown": 0,
+      "total": 89.49009347
+    },
+    "SY-hbUSDT": {
+      "Bullish": 45947.43708191,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 45947.43708191
+    },
+    "YT-hbUSDT-18DEC2025": {
+      "Bullish": 46777.100119,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 46777.100119
+    },
+    "PT-hbUSDT-18DEC2025": {
+      "Bullish": 46777.100119,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 46777.100119
+    },
+    "feUSDhl": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 3434.33776122,
+      "Unknown": 0,
+      "total": 3434.33776122
+    },
+    "CATBAL": {
+      "Bullish": 48.43052283,
+      "Bearish": 0,
+      "Neutral": 578.14945798,
+      "Unknown": 0,
+      "total": 626.57998081
+    },
+    "XAUt0": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 0.030162,
+      "Unknown": 0,
+      "total": 0.030162
+    },
+    "USOL": {
+      "Bullish": 20.99909312,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 20.99909312
+    },
+    "hwHLP": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 5266.068111,
+      "Unknown": 0,
+      "total": 5266.068111
+    },
+    "PGAY": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 10000.00024,
+      "Unknown": 0,
+      "total": 10000.00024
+    },
+    "USDe": {
+      "Bullish": 2450.05331292,
+      "Bearish": 0,
+      "Neutral": 770.95117672,
+      "Unknown": 0,
+      "total": 3221.00448965
+    },
+    "WHLP": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 179.004906,
+      "Unknown": 0,
+      "total": 179.004906
+    },
+    "LIQD": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 2789.92616125,
+      "Unknown": 0,
+      "total": 2789.92616125
+    },
+    "variableDebtHyperEvmWHYPE": {
+      "Bullish": 117.55610152,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 117.55610152
+    },
+    "hyUSDHL": {
+      "Bullish": 0,
+      "Bearish": 5632.360142,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 5632.360142
+    },
+    "BUDDY": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 17333.192216,
+      "Unknown": 0,
+      "total": 17333.192216
+    },
+    "BULBUL": {
+      "Bullish": 13927.53095449,
+      "Bearish": 0,
+      "Neutral": 14894.63348997,
+      "Unknown": 0,
+      "total": 28822.16444445
+    },
+    "hHyperEvmkHYPE": {
+      "Bullish": 184,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 184
+    },
+    "variableDebtHyperEvmUBTC": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 0.00046028,
+      "Unknown": 0,
+      "total": 0.00046028
+    },
+    "hHyperEvmUSDT0": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 181.854153,
+      "Unknown": 0,
+      "total": 181.854153
+    },
+    "hyUETH": {
+      "Bullish": 1.68703623,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1.68703623
+    },
+    "USH": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 106.13517869,
+      "Unknown": 0,
+      "total": 106.13517869
+    },
+    "stkUSDXL": {
+      "Bullish": 1998.87658977,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1998.87658977
+    },
+    "LHYPE": {
+      "Bullish": 4554.87216676,
+      "Bearish": 0,
+      "Neutral": 87.05388067,
+      "Unknown": 0,
+      "total": 4641.92604742
+    },
+    "LOOP": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 311.33090594,
+      "Unknown": 0,
+      "total": 311.33090594
+    },
+    "hHyperEvmUSDHL": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 199.57152,
+      "Unknown": 0,
+      "total": 199.57152
+    },
+    "HypurrScore-23": {
+      "Bullish": 701.14169657,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 701.14169657
+    },
+    "liquidHYPE": {
+      "Bullish": 51.99036411,
+      "Bearish": 0,
+      "Neutral": 51.99036411,
+      "Unknown": 0,
+      "total": 103.98072821
+    },
+    "SY-liquidHYPE": {
+      "Bullish": 26.00197927,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 26.00197927
+    },
+    "PENDLE-LPT": {
+      "Bullish": 11.47381739,
+      "Bearish": 0,
+      "Neutral": 9.24436946,
+      "Unknown": 0,
+      "total": 20.71818685
+    },
+    "PiP": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 16.791617,
+      "Unknown": 0,
+      "total": 16.791617
+    },
+    "hykHYPE": {
+      "Bullish": 0,
+      "Bearish": 49.99913497,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 49.99913497
+    },
+    "UFART": {
+      "Bullish": 2883.302286,
+      "Bearish": 0,
+      "Neutral": 7967.141062,
+      "Unknown": 0,
+      "total": 10850.443348
+    },
+    "variableDebtUSDXL": {
+      "Bullish": 1017.02468318,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 1017.02468318
+    },
+    "hyWHYPE": {
+      "Bullish": 61.01622033,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 61.01622033
+    },
+    "mHYPE": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 50.85258082,
+      "Unknown": 0,
+      "total": 50.85258082
+    },
+    "PEG": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1196.06088347,
+      "Unknown": 0,
+      "total": 1196.06088347
+    },
+    "hbHYPE": {
+      "Bullish": 1.63007695,
+      "Bearish": 0,
+      "Neutral": 3.95834121,
+      "Unknown": 0,
+      "total": 5.58841816
+    },
+    "SY-hbHYPE": {
+      "Bullish": 10.02672825,
+      "Bearish": 0,
+      "Neutral": 0.5487128,
+      "Unknown": 0,
+      "total": 10.57544105
+    },
+    "YT-hbHYPE-18DEC2025": {
+      "Bullish": 10.70224375,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 10.70224375
+    },
+    "PT-hbHYPE-18DEC2025": {
+      "Bullish": 10.70224375,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 10.70224375
+    },
+    "feHYPE": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1.19621488,
+      "Unknown": 0,
+      "total": 1.19621488
+    },
+    "hbBTC": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 0.121,
+      "Unknown": 0,
+      "total": 0.121
+    },
+    "pHBEAT-1": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 166.5070395,
+      "Unknown": 0,
+      "total": 166.5070395
+    },
+    "hHyperEvmwstHYPE": {
+      "Bullish": 10.23870479,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 10.23870479
+    },
+    "LATINA": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 1404.69902353,
+      "Unknown": 0,
+      "total": 1404.69902353
+    },
+    "HLP0": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 14857.369617,
+      "Unknown": 0,
+      "total": 14857.369617
+    },
+    "variableDebtHyperEvmwstHYPE": {
+      "Bullish": 3.09163455,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 3.09163455
+    },
+    "feUSDT0": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 48.26337853,
+      "Unknown": 0,
+      "total": 48.26337853
+    },
+    "squirtcoin": {
+      "Bullish": 0,
+      "Bearish": 0,
+      "Neutral": 39193.656416,
+      "Unknown": 0,
+      "total": 39193.656416
+    },
+    "haHYPE": {
+      "Bullish": 0.2,
+      "Bearish": 0,
+      "Neutral": 0,
+      "Unknown": 0,
+      "total": 0.2
+    }
+  },
+  "top_tokens_by_count": [
+    {
+      "token": "WHYPE",
+      "count": 442
+    },
+    {
+      "token": "USD₮0",
+      "count": 177
+    },
+    {
+      "token": "UPUMP",
+      "count": 141
+    },
+    {
+      "token": "UETH",
+      "count": 47
+    },
+    {
+      "token": "UFART",
+      "count": 44
+    },
+    {
+      "token": "USDHL",
+      "count": 43
+    },
+    {
+      "token": "kHYPE",
+      "count": 40
+    },
+    {
+      "token": "LHYPE",
+      "count": 37
+    },
+    {
+      "token": "feUSD",
+      "count": 36
+    },
+    {
+      "token": "UBTC",
+      "count": 35
+    },
+    {
+      "token": "CATBAL",
+      "count": 28
+    },
+    {
+      "token": "PURR",
+      "count": 26
+    },
+    {
+      "token": "USDe",
+      "count": 25
+    },
+    {
+      "token": "hbUSDT",
+      "count": 16
+    },
+    {
+      "token": "stHYPE",
+      "count": 15
+    },
+    {
+      "token": "hwHLP",
+      "count": 10
+    },
+    {
+      "token": "USDXL",
+      "count": 9
+    },
+    {
+      "token": "wstHYPE",
+      "count": 9
+    },
+    {
+      "token": "hbHYPE",
+      "count": 9
+    },
+    {
+      "token": "SY-kHYPE",
+      "count": 8
+    }
+  ],
+  "top_tokens_by_amount": [
+    {
+      "token": "UPUMP",
+      "amount": 36976095.47233701
+    },
+    {
+      "token": "USD₮0",
+      "amount": 193949.976034
+    },
+    {
+      "token": "PURR",
+      "amount": 152274.48802352
+    },
+    {
+      "token": "YT-hbUSDT-18DEC2025",
+      "amount": 46777.100119
+    },
+    {
+      "token": "PT-hbUSDT-18DEC2025",
+      "amount": 46777.100119
+    },
+    {
+      "token": "USDHL",
+      "amount": 46548.525486
+    },
+    {
+      "token": "SY-hbUSDT",
+      "amount": 45947.43708191
+    },
+    {
+      "token": "squirtcoin",
+      "amount": 39193.656416
+    },
+    {
+      "token": "BULBUL",
+      "amount": 28822.16444445
+    },
+    {
+      "token": "BUDDY",
+      "amount": 17333.192216
+    },
+    {
+      "token": "HLP0",
+      "amount": 14857.369617
+    },
+    {
+      "token": "WHYPE",
+      "amount": 12491.30686587
+    },
+    {
+      "token": "UFART",
+      "amount": 10850.443348
+    },
+    {
+      "token": "PGAY",
+      "amount": 10000.00024
+    },
+    {
+      "token": "hbUSDT",
+      "amount": 9803.73903645
+    },
+    {
+      "token": "feUSD",
+      "amount": 6507.21805714
+    },
+    {
+      "token": "hyUSDHL",
+      "amount": 5632.360142
+    },
+    {
+      "token": "hwHLP",
+      "amount": 5266.068111
+    },
+    {
+      "token": "LHYPE",
+      "amount": 4641.92604742
+    },
+    {
+      "token": "kHYPE",
+      "amount": 4037.62272564
+    }
+  ],
+  "notes": [
+    "Final verdict compares only Bearish vs Bullish counts; Neutral/Unknown are ignored for this ratio.",
+    "Amounts are in native token units (from `input_transaction.amount`).",
+    "Percentages in classification are based on total transactions (including Neutral/Unknown)."
+  ]
+}

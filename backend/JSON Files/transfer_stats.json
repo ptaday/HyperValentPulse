@@ -1,0 +1,693 @@
+{
+  "global": {
+    "total_txs": 888,
+    "total_successful_txs": 819,
+    "total_token_transfers": 1291,
+    "total_swaps": 235,
+    "total_liquidity_adds": 60,
+    "total_liquidity_removes": 42,
+    "total_sync_events_seen": 9
+  },
+  "per_token": [
+    {
+      "contract": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
+      "symbol": "BUDDY",
+      "decimals": 6,
+      "transfer_count": 5,
+      "total_amount_in": 17333.192216000003,
+      "total_amount_out": 17333.192216000003,
+      "first_seen": "2025-07-30T23:55:39Z",
+      "last_seen": "2025-07-30T23:57:22Z"
+    },
+    {
+      "contract": "0x99750393c5b40093a53ccd2d8e9f61ef4f401826",
+      "symbol": "BULBUL",
+      "decimals": 18,
+      "transfer_count": 4,
+      "total_amount_in": 28822.164444451428,
+      "total_amount_out": 28822.164444451428,
+      "first_seen": "2025-07-30T23:55:52Z",
+      "last_seen": "2025-07-30T23:57:08Z"
+    },
+    {
+      "contract": "0x11735dbd0b97cfa7accf47d005673ba185f7fd49",
+      "symbol": "CATBAL",
+      "decimals": 18,
+      "transfer_count": 28,
+      "total_amount_in": 626.579980811399,
+      "total_amount_out": 626.579980811399,
+      "first_seen": "2025-07-30T23:52:19Z",
+      "last_seen": "2025-07-30T23:58:38Z"
+    },
+    {
+      "contract": "0x2900abd73631b2f60747e687095537b673c06a76",
+      "symbol": "feHYPE",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 1.196214883717561,
+      "total_amount_out": 1.196214883717561,
+      "first_seen": "2025-07-30T23:53:30Z",
+      "last_seen": "2025-07-30T23:53:30Z"
+    },
+    {
+      "contract": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+      "symbol": "feUSD",
+      "decimals": 18,
+      "transfer_count": 36,
+      "total_amount_in": 6507.218057135047,
+      "total_amount_out": 6507.218057135047,
+      "first_seen": "2025-07-30T23:52:04Z",
+      "last_seen": "2025-07-31T00:00:00Z"
+    },
+    {
+      "contract": "0x9c59a9389d8f72de2cdaf1126f36ea4790e2275e",
+      "symbol": "feUSDhl",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 3434.3377612249396,
+      "total_amount_out": 3434.3377612249396,
+      "first_seen": "2025-07-30T23:58:41Z",
+      "last_seen": "2025-07-30T23:58:41Z"
+    },
+    {
+      "contract": "0xfc5126377f0efc0041c0969ef9ba903ce67d151e",
+      "symbol": "feUSDT0",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 48.26337853124205,
+      "total_amount_out": 48.26337853124205,
+      "first_seen": "2025-07-30T23:52:24Z",
+      "last_seen": "2025-07-30T23:52:24Z"
+    },
+    {
+      "contract": "0xfde5b0626fc80e36885e2fa9cd5ad9d7768d725c",
+      "symbol": "haHYPE",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 0.2,
+      "total_amount_out": 0.2,
+      "first_seen": "2025-07-30T23:52:02Z",
+      "last_seen": "2025-07-30T23:52:02Z"
+    },
+    {
+      "contract": "0xc061d38903b99ac12713b550c2cb44b221674f94",
+      "symbol": "hbBTC",
+      "decimals": 8,
+      "transfer_count": 1,
+      "total_amount_in": 0.121,
+      "total_amount_out": 0.121,
+      "first_seen": "2025-07-30T23:53:05Z",
+      "last_seen": "2025-07-30T23:53:05Z"
+    },
+    {
+      "contract": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
+      "symbol": "hbHYPE",
+      "decimals": 18,
+      "transfer_count": 9,
+      "total_amount_in": 5.5884181637691706,
+      "total_amount_out": 5.5884181637691706,
+      "first_seen": "2025-07-30T23:52:05Z",
+      "last_seen": "2025-07-30T23:53:55Z"
+    },
+    {
+      "contract": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+      "symbol": "hbUSDT",
+      "decimals": 18,
+      "transfer_count": 16,
+      "total_amount_in": 9803.739036446505,
+      "total_amount_out": 9803.739036446505,
+      "first_seen": "2025-07-30T23:52:04Z",
+      "last_seen": "2025-07-30T23:59:48Z"
+    },
+    {
+      "contract": "0xa55de93cde5a34c5521b7584022846829cb74366",
+      "symbol": "hHyperEvmkHYPE",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 184.00000000060058,
+      "total_amount_out": 184.00000000060058,
+      "first_seen": "2025-07-30T23:57:00Z",
+      "last_seen": "2025-07-30T23:57:00Z"
+    },
+    {
+      "contract": "0x329febbbf38a6c202786fcc8ac02dbd2f40d5a18",
+      "symbol": "hHyperEvmPT-kHYPE-13NOV2025",
+      "decimals": 18,
+      "transfer_count": 2,
+      "total_amount_in": 4.225103960339925,
+      "total_amount_out": 4.225103960339925,
+      "first_seen": "2025-07-30T23:54:26Z",
+      "last_seen": "2025-07-30T23:59:57Z"
+    },
+    {
+      "contract": "0xd2012c6dff7634f9513a56a1871b93e4505ea851",
+      "symbol": "hHyperEvmUBTC",
+      "decimals": 8,
+      "transfer_count": 1,
+      "total_amount_in": 0.08032057,
+      "total_amount_out": 0.08032057,
+      "first_seen": "2025-07-30T23:59:00Z",
+      "last_seen": "2025-07-30T23:59:00Z"
+    },
+    {
+      "contract": "0x0b936de4370e4b2be947c01fe0a6fb5f987c4709",
+      "symbol": "hHyperEvmUSDHL",
+      "decimals": 6,
+      "transfer_count": 1,
+      "total_amount_in": 199.57152,
+      "total_amount_out": 199.57152,
+      "first_seen": "2025-07-30T23:56:06Z",
+      "last_seen": "2025-07-30T23:56:06Z"
+    },
+    {
+      "contract": "0x10982ad645d5a112606534d8567418cf64c14cb5",
+      "symbol": "hHyperEvmUSDT0",
+      "decimals": 6,
+      "transfer_count": 3,
+      "total_amount_in": 181.854153,
+      "total_amount_out": 181.854153,
+      "first_seen": "2025-07-30T23:57:00Z",
+      "last_seen": "2025-07-30T23:57:00Z"
+    },
+    {
+      "contract": "0x0ab8aae3335ed4b373a33d9023b6a6585b149d33",
+      "symbol": "hHyperEvmwstHYPE",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 10.238704791970456,
+      "total_amount_out": 10.238704791970456,
+      "first_seen": "2025-07-30T23:52:48Z",
+      "last_seen": "2025-07-30T23:52:48Z"
+    },
+    {
+      "contract": "0x3d75f2bb8abcdbd1e27443cb5cbce8a668046c81",
+      "symbol": "HLP0",
+      "decimals": 6,
+      "transfer_count": 2,
+      "total_amount_in": 14857.369617,
+      "total_amount_out": 14857.369617,
+      "first_seen": "2025-07-30T23:51:54Z",
+      "last_seen": "2025-07-30T23:52:35Z"
+    },
+    {
+      "contract": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+      "symbol": "hwHLP",
+      "decimals": 6,
+      "transfer_count": 10,
+      "total_amount_in": 5266.0681110000005,
+      "total_amount_out": 5266.0681110000005,
+      "first_seen": "2025-07-30T23:56:44Z",
+      "last_seen": "2025-07-30T23:58:04Z"
+    },
+    {
+      "contract": "0xcae9e2a86c146b084169e170e63d340bf34d6b83",
+      "symbol": "hykHYPE",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 49.9991349692077,
+      "total_amount_out": 49.9991349692077,
+      "first_seen": "2025-07-30T23:55:31Z",
+      "last_seen": "2025-07-30T23:55:31Z"
+    },
+    {
+      "contract": "0x98bbfdc38f1fb181e0c7d263fd83ec566559e538",
+      "symbol": "HypurrScore-23",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 701.1416965739066,
+      "total_amount_out": 701.1416965739066,
+      "first_seen": "2025-07-30T23:55:53Z",
+      "last_seen": "2025-07-30T23:55:53Z"
+    },
+    {
+      "contract": "0x68717797aaae1b009c258b6ff5403aeccb7010c0",
+      "symbol": "hyUETH",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 1.687036233,
+      "total_amount_out": 1.687036233,
+      "first_seen": "2025-07-30T23:56:58Z",
+      "last_seen": "2025-07-30T23:56:58Z"
+    },
+    {
+      "contract": "0xfd32712a1cb152c03a62d54557fcb1de372abfe9",
+      "symbol": "hyUSDHL",
+      "decimals": 6,
+      "transfer_count": 1,
+      "total_amount_in": 5632.360142,
+      "total_amount_out": 5632.360142,
+      "first_seen": "2025-07-30T23:57:23Z",
+      "last_seen": "2025-07-30T23:57:23Z"
+    },
+    {
+      "contract": "0x7c97cd7b57b736c6ad74fae97c0e21e856251dcf",
+      "symbol": "hyWHYPE",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 61.01622032514965,
+      "total_amount_out": 61.01622032514965,
+      "first_seen": "2025-07-30T23:54:29Z",
+      "last_seen": "2025-07-30T23:54:29Z"
+    },
+    {
+      "contract": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+      "symbol": "kHYPE",
+      "decimals": 18,
+      "transfer_count": 40,
+      "total_amount_in": 4037.62272563703,
+      "total_amount_out": 4037.62272563703,
+      "first_seen": "2025-07-30T23:52:16Z",
+      "last_seen": "2025-07-30T23:59:22Z"
+    },
+    {
+      "contract": "0xe7eaa46c2ac8470d622ada1538fede6242cebe53",
+      "symbol": "LATINA",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 1404.6990235329574,
+      "total_amount_out": 1404.6990235329574,
+      "first_seen": "2025-07-30T23:52:46Z",
+      "last_seen": "2025-07-30T23:52:46Z"
+    },
+    {
+      "contract": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+      "symbol": "LHYPE",
+      "decimals": 18,
+      "transfer_count": 37,
+      "total_amount_in": 4641.926047424636,
+      "total_amount_out": 4641.926047424636,
+      "first_seen": "2025-07-30T23:53:06Z",
+      "last_seen": "2025-07-30T23:56:37Z"
+    },
+    {
+      "contract": "0x1ecd15865d7f8019d546f76d095d9c93cc34edfa",
+      "symbol": "LIQD",
+      "decimals": 18,
+      "transfer_count": 2,
+      "total_amount_in": 2789.9261612533824,
+      "total_amount_out": 2789.9261612533824,
+      "first_seen": "2025-07-30T23:57:23Z",
+      "last_seen": "2025-07-30T23:57:31Z"
+    },
+    {
+      "contract": "0x441794d6a8f9a3739f5d4e98a728937b33489d29",
+      "symbol": "liquidHYPE",
+      "decimals": 18,
+      "transfer_count": 4,
+      "total_amount_in": 103.98072821183322,
+      "total_amount_out": 103.98072821183322,
+      "first_seen": "2025-07-30T23:54:38Z",
+      "last_seen": "2025-07-30T23:55:45Z"
+    },
+    {
+      "contract": "0x00fdbc53719604d924226215bc871d55e40a1009",
+      "symbol": "LOOP",
+      "decimals": 18,
+      "transfer_count": 2,
+      "total_amount_in": 311.3309059391562,
+      "total_amount_out": 311.3309059391562,
+      "first_seen": "2025-07-30T23:55:53Z",
+      "last_seen": "2025-07-30T23:56:37Z"
+    },
+    {
+      "contract": "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
+      "symbol": "mHYPE",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 50.852580824334176,
+      "total_amount_out": 50.852580824334176,
+      "first_seen": "2025-07-30T23:54:03Z",
+      "last_seen": "2025-07-30T23:54:03Z"
+    },
+    {
+      "contract": "0x28245ab01298eaef7933bc90d35bd9dbca5c89db",
+      "symbol": "PEG",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 1196.0608834701513,
+      "total_amount_out": 1196.0608834701513,
+      "first_seen": "2025-07-30T23:54:00Z",
+      "last_seen": "2025-07-30T23:54:00Z"
+    },
+    {
+      "contract": "0x8867d2b7adb8609c51810237ecc9a25a2f601b97",
+      "symbol": "PENDLE-LPT",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 9.244369461510301,
+      "total_amount_out": 9.244369461510301,
+      "first_seen": "2025-07-30T23:54:00Z",
+      "last_seen": "2025-07-30T23:54:00Z"
+    },
+    {
+      "contract": "0x976fb34e06c933bdd97cb1e8b868e04442edaa8d",
+      "symbol": "PENDLE-LPT",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 11.473817386343844,
+      "total_amount_out": 11.473817386343844,
+      "first_seen": "2025-07-30T23:55:45Z",
+      "last_seen": "2025-07-30T23:55:45Z"
+    },
+    {
+      "contract": "0xe9e70b7c9d108011c5ab15ce9bf6ef21d0cf8363",
+      "symbol": "PGAY",
+      "decimals": 6,
+      "transfer_count": 6,
+      "total_amount_in": 10000.000240000001,
+      "total_amount_out": 10000.000240000001,
+      "first_seen": "2025-07-30T23:56:16Z",
+      "last_seen": "2025-07-30T23:57:39Z"
+    },
+    {
+      "contract": "0x2e9cd3e4489ccfc041697f34306eb462b278ddf9",
+      "symbol": "pHBEAT-1",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 166.50703950393716,
+      "total_amount_out": 166.50703950393716,
+      "first_seen": "2025-07-30T23:53:00Z",
+      "last_seen": "2025-07-30T23:53:00Z"
+    },
+    {
+      "contract": "0x1bee6762f0b522c606dc2ffb106c0bb391b2e309",
+      "symbol": "PiP",
+      "decimals": 18,
+      "transfer_count": 5,
+      "total_amount_in": 16.791617004775258,
+      "total_amount_out": 16.791617004775258,
+      "first_seen": "2025-07-30T23:55:39Z",
+      "last_seen": "2025-07-30T23:55:43Z"
+    },
+    {
+      "contract": "0x810f9d4a751cafd5193617022b35fa0b0c166b4c",
+      "symbol": "PT-hbHYPE-18DEC2025",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 10.702243750566286,
+      "total_amount_out": 10.702243750566286,
+      "first_seen": "2025-07-30T23:53:55Z",
+      "last_seen": "2025-07-30T23:53:55Z"
+    },
+    {
+      "contract": "0x31a75680de78bb2787ffe9840da569dbdf4504f5",
+      "symbol": "PT-hbUSDT-18DEC2025",
+      "decimals": 6,
+      "transfer_count": 2,
+      "total_amount_in": 46777.100118999995,
+      "total_amount_out": 46777.100118999995,
+      "first_seen": "2025-07-30T23:53:39Z",
+      "last_seen": "2025-07-30T23:58:58Z"
+    },
+    {
+      "contract": "0x311db0fde558689550c68355783c95efdfe25329",
+      "symbol": "PT-kHYPE-13NOV2025",
+      "decimals": 18,
+      "transfer_count": 5,
+      "total_amount_in": 137.98480155072224,
+      "total_amount_out": 137.98480155072224,
+      "first_seen": "2025-07-30T23:53:43Z",
+      "last_seen": "2025-07-30T23:59:57Z"
+    },
+    {
+      "contract": "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e",
+      "symbol": "PURR",
+      "decimals": 18,
+      "transfer_count": 26,
+      "total_amount_in": 152274.48802352225,
+      "total_amount_out": 152274.48802352225,
+      "first_seen": "2025-07-30T23:51:58Z",
+      "last_seen": "2025-07-30T23:59:47Z"
+    },
+    {
+      "contract": "0x3c8807120a07c5075f624efc12a48f2c8a920bfd",
+      "symbol": "squirtcoin",
+      "decimals": 6,
+      "transfer_count": 2,
+      "total_amount_in": 39193.656416,
+      "total_amount_out": 39193.656416,
+      "first_seen": "2025-07-30T23:52:16Z",
+      "last_seen": "2025-07-30T23:52:16Z"
+    },
+    {
+      "contract": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+      "symbol": "stHYPE",
+      "decimals": 18,
+      "transfer_count": 15,
+      "total_amount_in": 293.2704380133619,
+      "total_amount_out": 293.2704380133619,
+      "first_seen": "2025-07-30T23:52:29Z",
+      "last_seen": "2025-07-30T23:59:21Z"
+    },
+    {
+      "contract": "0x9992ed1214ea2bc91b0587b37c3e03d5e2a242c1",
+      "symbol": "stkUSDXL",
+      "decimals": 18,
+      "transfer_count": 2,
+      "total_amount_in": 1998.8765897668281,
+      "total_amount_out": 1998.8765897668281,
+      "first_seen": "2025-07-30T23:56:38Z",
+      "last_seen": "2025-07-30T23:56:38Z"
+    },
+    {
+      "contract": "0x0fcde5a369c0d71ac932840c8654db03681912dd",
+      "symbol": "SY-hbHYPE",
+      "decimals": 18,
+      "transfer_count": 3,
+      "total_amount_in": 10.575441047229292,
+      "total_amount_out": 10.575441047229292,
+      "first_seen": "2025-07-30T23:53:55Z",
+      "last_seen": "2025-07-30T23:53:55Z"
+    },
+    {
+      "contract": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
+      "symbol": "SY-hbUSDT",
+      "decimals": 18,
+      "transfer_count": 6,
+      "total_amount_in": 45947.437081905315,
+      "total_amount_out": 45947.437081905315,
+      "first_seen": "2025-07-30T23:53:39Z",
+      "last_seen": "2025-07-30T23:58:58Z"
+    },
+    {
+      "contract": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e",
+      "symbol": "SY-kHYPE",
+      "decimals": 18,
+      "transfer_count": 8,
+      "total_amount_in": 150.15206598310422,
+      "total_amount_out": 150.15206598310422,
+      "first_seen": "2025-07-30T23:53:43Z",
+      "last_seen": "2025-07-30T23:59:22Z"
+    },
+    {
+      "contract": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
+      "symbol": "SY-liquidHYPE",
+      "decimals": 18,
+      "transfer_count": 2,
+      "total_amount_in": 26.001979270585306,
+      "total_amount_out": 26.001979270585306,
+      "first_seen": "2025-07-30T23:55:45Z",
+      "last_seen": "2025-07-30T23:55:45Z"
+    },
+    {
+      "contract": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+      "symbol": "UBTC",
+      "decimals": 8,
+      "transfer_count": 35,
+      "total_amount_in": 0.19661816000000001,
+      "total_amount_out": 0.19661816000000001,
+      "first_seen": "2025-07-30T23:52:28Z",
+      "last_seen": "2025-07-31T00:00:00Z"
+    },
+    {
+      "contract": "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+      "symbol": "UETH",
+      "decimals": 18,
+      "transfer_count": 47,
+      "total_amount_in": 38.43430876867876,
+      "total_amount_out": 38.43430876867876,
+      "first_seen": "2025-07-30T23:51:54Z",
+      "last_seen": "2025-07-30T23:59:56Z"
+    },
+    {
+      "contract": "0x3b4575e689ded21caad31d64c4df1f10f3b2cedf",
+      "symbol": "UFART",
+      "decimals": 6,
+      "transfer_count": 44,
+      "total_amount_in": 10850.443347999999,
+      "total_amount_out": 10850.443347999999,
+      "first_seen": "2025-07-30T23:52:14Z",
+      "last_seen": "2025-07-30T23:55:21Z"
+    },
+    {
+      "contract": "0x27ec642013bcb3d80ca3706599d3cda04f6f4452",
+      "symbol": "UPUMP",
+      "decimals": 6,
+      "transfer_count": 141,
+      "total_amount_in": 36976095.47233701,
+      "total_amount_out": 36976095.47233701,
+      "first_seen": "2025-07-30T23:51:54Z",
+      "last_seen": "2025-07-30T23:59:49Z"
+    },
+    {
+      "contract": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "transfer_count": 177,
+      "total_amount_in": 193949.976034,
+      "total_amount_out": 193949.976034,
+      "first_seen": "2025-07-30T23:51:54Z",
+      "last_seen": "2025-07-30T23:59:56Z"
+    },
+    {
+      "contract": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "symbol": "USDe",
+      "decimals": 18,
+      "transfer_count": 25,
+      "total_amount_in": 3221.0044896452296,
+      "total_amount_out": 3221.0044896452296,
+      "first_seen": "2025-07-30T23:52:54Z",
+      "last_seen": "2025-07-30T23:57:35Z"
+    },
+    {
+      "contract": "0xb50a96253abdf803d85efcdce07ad8becbc52bd5",
+      "symbol": "USDHL",
+      "decimals": 6,
+      "transfer_count": 43,
+      "total_amount_in": 46548.525486,
+      "total_amount_out": 46548.525486,
+      "first_seen": "2025-07-30T23:52:03Z",
+      "last_seen": "2025-07-30T23:59:37Z"
+    },
+    {
+      "contract": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+      "symbol": "USDXL",
+      "decimals": 18,
+      "transfer_count": 9,
+      "total_amount_in": 3077.0777582046203,
+      "total_amount_out": 3077.0777582046203,
+      "first_seen": "2025-07-30T23:53:06Z",
+      "last_seen": "2025-07-30T23:59:10Z"
+    },
+    {
+      "contract": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+      "symbol": "USH",
+      "decimals": 18,
+      "transfer_count": 4,
+      "total_amount_in": 106.1351786860082,
+      "total_amount_out": 106.1351786860082,
+      "first_seen": "2025-07-30T23:54:58Z",
+      "last_seen": "2025-07-30T23:56:44Z"
+    },
+    {
+      "contract": "0x068f321fa8fb9f0d135f290ef6a3e2813e1c8a29",
+      "symbol": "USOL",
+      "decimals": 9,
+      "transfer_count": 1,
+      "total_amount_in": 20.99909312,
+      "total_amount_out": 20.99909312,
+      "first_seen": "2025-07-30T23:58:33Z",
+      "last_seen": "2025-07-30T23:58:33Z"
+    },
+    {
+      "contract": "0xe16a14972bcde3f9bd637502c86384533f27da07",
+      "symbol": "variableDebtHyperEvmUBTC",
+      "decimals": 8,
+      "transfer_count": 1,
+      "total_amount_in": 0.00046028,
+      "total_amount_out": 0.00046028,
+      "first_seen": "2025-07-30T23:57:00Z",
+      "last_seen": "2025-07-30T23:57:00Z"
+    },
+    {
+      "contract": "0x747d0d4ba0a2083651513cd008deb95075683e82",
+      "symbol": "variableDebtHyperEvmWHYPE",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 117.55610152427255,
+      "total_amount_out": 117.55610152427255,
+      "first_seen": "2025-07-30T23:57:29Z",
+      "last_seen": "2025-07-30T23:57:29Z"
+    },
+    {
+      "contract": "0x45686a849e77ccb909f5d575f51c372bf26103d6",
+      "symbol": "variableDebtHyperEvmwstHYPE",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 3.091634553602735,
+      "total_amount_out": 3.091634553602735,
+      "first_seen": "2025-07-30T23:52:29Z",
+      "last_seen": "2025-07-30T23:52:29Z"
+    },
+    {
+      "contract": "0xa0399ff8f46ce6c2cfee05c5f67307c7f390a439",
+      "symbol": "variableDebtUSDXL",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 1017.0246831797377,
+      "total_amount_out": 1017.0246831797377,
+      "first_seen": "2025-07-30T23:54:58Z",
+      "last_seen": "2025-07-30T23:54:58Z"
+    },
+    {
+      "contract": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+      "symbol": "WHLP",
+      "decimals": 6,
+      "transfer_count": 2,
+      "total_amount_in": 179.004906,
+      "total_amount_out": 179.004906,
+      "first_seen": "2025-07-30T23:57:35Z",
+      "last_seen": "2025-07-30T23:57:35Z"
+    },
+    {
+      "contract": "0x5555555555555555555555555555555555555555",
+      "symbol": "WHYPE",
+      "decimals": 18,
+      "transfer_count": 442,
+      "total_amount_in": 12491.3068658652,
+      "total_amount_out": 12491.3068658652,
+      "first_seen": "2025-07-30T23:51:54Z",
+      "last_seen": "2025-07-30T23:59:59Z"
+    },
+    {
+      "contract": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+      "symbol": "wstHYPE",
+      "decimals": 18,
+      "transfer_count": 9,
+      "total_amount_in": 89.49009346547297,
+      "total_amount_out": 89.49009346547297,
+      "first_seen": "2025-07-30T23:52:29Z",
+      "last_seen": "2025-07-30T23:58:58Z"
+    },
+    {
+      "contract": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+      "symbol": "XAUt0",
+      "decimals": 6,
+      "transfer_count": 2,
+      "total_amount_in": 0.030161999999999998,
+      "total_amount_out": 0.030161999999999998,
+      "first_seen": "2025-07-30T23:53:49Z",
+      "last_seen": "2025-07-30T23:58:38Z"
+    },
+    {
+      "contract": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1",
+      "symbol": "YT-hbHYPE-18DEC2025",
+      "decimals": 18,
+      "transfer_count": 1,
+      "total_amount_in": 10.702243750566286,
+      "total_amount_out": 10.702243750566286,
+      "first_seen": "2025-07-30T23:53:55Z",
+      "last_seen": "2025-07-30T23:53:55Z"
+    },
+    {
+      "contract": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7",
+      "symbol": "YT-hbUSDT-18DEC2025",
+      "decimals": 6,
+      "transfer_count": 2,
+      "total_amount_in": 46777.100118999995,
+      "total_amount_out": 46777.100118999995,
+      "first_seen": "2025-07-30T23:53:39Z",
+      "last_seen": "2025-07-30T23:58:58Z"
+    }
+  ]
+}

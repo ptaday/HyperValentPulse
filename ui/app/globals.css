@@ -1,0 +1,139 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Updated to proper light theme colors with white background and dark content */
+  --background: oklch(1 0 0); /* White background */
+  --foreground: oklch(0.15 0 0); /* Dark text */
+  --card: oklch(0.98 0 0); /* Light card backgrounds */
+  --card-foreground: oklch(0.15 0 0); /* Dark text on cards */
+  --popover: oklch(0.98 0 0); /* Light popover background */
+  --popover-foreground: oklch(0.15 0 0); /* Dark text in popovers */
+  --primary: oklch(0.55 0.22 25); /* Primary red #dc2626 */
+  --primary-foreground: oklch(0.98 0 0); /* White text on primary */
+  --secondary: oklch(0.95 0.05 85); /* Light secondary background */
+  --secondary-foreground: oklch(0.15 0 0); /* Dark text on secondary */
+  --muted: oklch(0.92 0.02 250); /* Light muted gray */
+  --muted-foreground: oklch(0.45 0.02 250); /* Darker muted text */
+  --accent: oklch(0.95 0.05 85); /* Light accent */
+  --accent-foreground: oklch(0.15 0 0); /* Dark text on accent */
+  --destructive: oklch(0.55 0.22 25); /* Destructive red */
+  --destructive-foreground: oklch(0.98 0 0); /* White text on destructive */
+  --border: oklch(0.85 0.02 250); /* Light border gray */
+  --input: oklch(0.98 0 0); /* Light input background */
+  --ring: oklch(0.15 0 0 / 0.1); /* Dark ring effect */
+  --chart-1: oklch(0.55 0.22 25); /* Chart red */
+  --chart-2: oklch(0.75 0.15 85); /* Chart yellow */
+  --chart-3: oklch(0.35 0.02 250); /* Chart gray */
+  --chart-4: oklch(0.65 0.25 330); /* Chart pink */
+  --chart-5: oklch(0.65 0.2 45); /* Chart orange */
+  --radius: 0.5rem;
+  --sidebar: oklch(1 0 0);
+  --sidebar-foreground: oklch(0.15 0 0);
+  --sidebar-primary: oklch(0.55 0.22 25);
+  --sidebar-primary-foreground: oklch(0.98 0 0);
+  --sidebar-accent: oklch(0.95 0.05 85);
+  --sidebar-accent-foreground: oklch(0.15 0 0);
+  --sidebar-border: oklch(0.85 0.02 250);
+  --sidebar-ring: oklch(0.15 0 0 / 0.1);
+}
+
+.dark {
+  /* Dark mode colors remain the same for DeFi theme */
+  --background: oklch(0.12 0 0);
+  --foreground: oklch(0.98 0 0);
+  --card: oklch(0.18 0 0);
+  --card-foreground: oklch(0.98 0 0);
+  --popover: oklch(0.18 0 0);
+  --popover-foreground: oklch(0.98 0 0);
+  --primary: oklch(0.55 0.22 25);
+  --primary-foreground: oklch(0.98 0 0);
+  --secondary: oklch(0.75 0.15 85);
+  --secondary-foreground: oklch(0.12 0 0);
+  --muted: oklch(0.35 0.02 250);
+  --muted-foreground: oklch(0.65 0.02 250);
+  --accent: oklch(0.75 0.15 85);
+  --accent-foreground: oklch(0.12 0 0);
+  --destructive: oklch(0.55 0.22 25);
+  --destructive-foreground: oklch(0.98 0 0);
+  --border: oklch(0.25 0.02 250);
+  --input: oklch(0.18 0 0);
+  --ring: oklch(0.98 0 0 / 0.1);
+  --chart-1: oklch(0.55 0.22 25);
+  --chart-2: oklch(0.75 0.15 85);
+  --chart-3: oklch(0.35 0.02 250);
+  --chart-4: oklch(0.65 0.25 330);
+  --chart-5: oklch(0.65 0.2 45);
+  --sidebar: oklch(0.12 0 0);
+  --sidebar-foreground: oklch(0.98 0 0);
+  --sidebar-primary: oklch(0.55 0.22 25);
+  --sidebar-primary-foreground: oklch(0.98 0 0);
+  --sidebar-accent: oklch(0.75 0.15 85);
+  --sidebar-accent-foreground: oklch(0.12 0 0);
+  --sidebar-border: oklch(0.25 0.02 250);
+  --sidebar-ring: oklch(0.98 0 0 / 0.1);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  /* Added DeFi-specific styling for enhanced crypto aesthetics */
+  .crypto-glow {
+    box-shadow: 0 0 20px rgba(245, 158, 11, 0.3);
+  }
+
+  .neon-border {
+    border: 1px solid rgba(245, 158, 11, 0.5);
+    box-shadow: 0 0 10px rgba(245, 158, 11, 0.2);
+  }
+
+  .gradient-bg {
+    background: linear-gradient(135deg, rgba(220, 38, 38, 0.1) 0%, rgba(245, 158, 11, 0.1) 100%);
+  }
+}

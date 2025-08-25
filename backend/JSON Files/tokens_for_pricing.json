@@ -1,0 +1,377 @@
+[
+  {
+    "contract": "0x00fdbc53719604d924226215bc871d55e40a1009",
+    "symbol": "LOOP",
+    "decimals": 18
+  },
+  {
+    "contract": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+    "symbol": "feUSD",
+    "decimals": 18
+  },
+  {
+    "contract": "0x068f321fa8fb9f0d135f290ef6a3e2813e1c8a29",
+    "symbol": "USOL",
+    "decimals": 9
+  },
+  {
+    "contract": "0x06c5ad0a96437ee1003390c33cb180e5ad97e1e9",
+    "symbol": "CUBE",
+    "decimals": 0
+  },
+  {
+    "contract": "0x0ab8aae3335ed4b373a33d9023b6a6585b149d33",
+    "symbol": "hHyperEvmwstHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x0b936de4370e4b2be947c01fe0a6fb5f987c4709",
+    "symbol": "hHyperEvmUSDHL",
+    "decimals": 6
+  },
+  {
+    "contract": "0x0fcde5a369c0d71ac932840c8654db03681912dd",
+    "symbol": "SY-hbHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x10982ad645d5a112606534d8567418cf64c14cb5",
+    "symbol": "hHyperEvmUSDT0",
+    "decimals": 6
+  },
+  {
+    "contract": "0x11735dbd0b97cfa7accf47d005673ba185f7fd49",
+    "symbol": "CATBAL",
+    "decimals": 18
+  },
+  {
+    "contract": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+    "symbol": "WHLP",
+    "decimals": 6
+  },
+  {
+    "contract": "0x1bee6762f0b522c606dc2ffb106c0bb391b2e309",
+    "symbol": "PiP",
+    "decimals": 18
+  },
+  {
+    "contract": "0x1ecd15865d7f8019d546f76d095d9c93cc34edfa",
+    "symbol": "LIQD",
+    "decimals": 18
+  },
+  {
+    "contract": "0x27ec642013bcb3d80ca3706599d3cda04f6f4452",
+    "symbol": "UPUMP",
+    "decimals": 6
+  },
+  {
+    "contract": "0x28245ab01298eaef7933bc90d35bd9dbca5c89db",
+    "symbol": "PEG",
+    "decimals": 18
+  },
+  {
+    "contract": "0x2900abd73631b2f60747e687095537b673c06a76",
+    "symbol": "feHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1",
+    "symbol": "YT-hbHYPE-18DEC2025",
+    "decimals": 18
+  },
+  {
+    "contract": "0x2e9cd3e4489ccfc041697f34306eb462b278ddf9",
+    "symbol": "pHBEAT-1",
+    "decimals": 18
+  },
+  {
+    "contract": "0x311db0fde558689550c68355783c95efdfe25329",
+    "symbol": "PT-kHYPE-13NOV2025",
+    "decimals": 18
+  },
+  {
+    "contract": "0x31a75680de78bb2787ffe9840da569dbdf4504f5",
+    "symbol": "PT-hbUSDT-18DEC2025",
+    "decimals": 6
+  },
+  {
+    "contract": "0x329febbbf38a6c202786fcc8ac02dbd2f40d5a18",
+    "symbol": "hHyperEvmPT-kHYPE-13NOV2025",
+    "decimals": 18
+  },
+  {
+    "contract": "0x3b4575e689ded21caad31d64c4df1f10f3b2cedf",
+    "symbol": "UFART",
+    "decimals": 6
+  },
+  {
+    "contract": "0x3c8807120a07c5075f624efc12a48f2c8a920bfd",
+    "symbol": "squirtcoin",
+    "decimals": 6
+  },
+  {
+    "contract": "0x3d75f2bb8abcdbd1e27443cb5cbce8a668046c81",
+    "symbol": "HLP0",
+    "decimals": 6
+  },
+  {
+    "contract": "0x406d3c2355c0745791b166fbe404c144d7bb163c",
+    "symbol": "NGLD",
+    "decimals": 0
+  },
+  {
+    "contract": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
+    "symbol": "SY-liquidHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x441794d6a8f9a3739f5d4e98a728937b33489d29",
+    "symbol": "liquidHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x45686a849e77ccb909f5d575f51c372bf26103d6",
+    "symbol": "variableDebtHyperEvmwstHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
+    "symbol": "BUDDY",
+    "decimals": 6
+  },
+  {
+    "contract": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7",
+    "symbol": "YT-hbUSDT-18DEC2025",
+    "decimals": 6
+  },
+  {
+    "contract": "0x486ec4dda7feb9871eef0d6ccc0d79dd3f7af7a4",
+    "symbol": "RAM-V3-NFP",
+    "decimals": 0
+  },
+  {
+    "contract": "0x5555555555555555555555555555555555555555",
+    "symbol": "WHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x55b867a955e4384bcac03ef7f2e492f68016c152",
+    "symbol": ".hype",
+    "decimals": 0
+  },
+  {
+    "contract": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+    "symbol": "LHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e",
+    "symbol": "SY-kHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "symbol": "USDe",
+    "decimals": 18
+  },
+  {
+    "contract": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+    "symbol": "hbUSDT",
+    "decimals": 18
+  },
+  {
+    "contract": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
+    "symbol": "SY-hbUSDT",
+    "decimals": 18
+  },
+  {
+    "contract": "0x68717797aaae1b009c258b6ff5403aeccb7010c0",
+    "symbol": "hyUETH",
+    "decimals": 18
+  },
+  {
+    "contract": "0x6eda206207c09e5428f281761ddc0d300851fbc8",
+    "symbol": "HSPX-V3-POS",
+    "decimals": 0
+  },
+  {
+    "contract": "0x747d0d4ba0a2083651513cd008deb95075683e82",
+    "symbol": "variableDebtHyperEvmWHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x7c97cd7b57b736c6ad74fae97c0e21e856251dcf",
+    "symbol": "hyWHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x810f9d4a751cafd5193617022b35fa0b0c166b4c",
+    "symbol": "PT-hbHYPE-18DEC2025",
+    "decimals": 18
+  },
+  {
+    "contract": "0x8867d2b7adb8609c51810237ecc9a25a2f601b97",
+    "symbol": "PENDLE-LPT",
+    "decimals": 18
+  },
+  {
+    "contract": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "symbol": "USH",
+    "decimals": 18
+  },
+  {
+    "contract": "0x934c4f47b2d3ffca0156a45deb3a436202af1efa",
+    "symbol": "UNI-V3-POS",
+    "decimals": 0
+  },
+  {
+    "contract": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "symbol": "wstHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
+    "symbol": "hbHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0x976fb34e06c933bdd97cb1e8b868e04442edaa8d",
+    "symbol": "PENDLE-LPT",
+    "decimals": 18
+  },
+  {
+    "contract": "0x98bbfdc38f1fb181e0c7d263fd83ec566559e538",
+    "symbol": "HypurrScore-23",
+    "decimals": 18
+  },
+  {
+    "contract": "0x99750393c5b40093a53ccd2d8e9f61ef4f401826",
+    "symbol": "BULBUL",
+    "decimals": 18
+  },
+  {
+    "contract": "0x9992ed1214ea2bc91b0587b37c3e03d5e2a242c1",
+    "symbol": "stkUSDXL",
+    "decimals": 18
+  },
+  {
+    "contract": "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e",
+    "symbol": "PURR",
+    "decimals": 18
+  },
+  {
+    "contract": "0x9c59a9389d8f72de2cdaf1126f36ea4790e2275e",
+    "symbol": "feUSDhl",
+    "decimals": 18
+  },
+  {
+    "contract": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+    "symbol": "hwHLP",
+    "decimals": 6
+  },
+  {
+    "contract": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+    "symbol": "UBTC",
+    "decimals": 8
+  },
+  {
+    "contract": "0xa0399ff8f46ce6c2cfee05c5f67307c7f390a439",
+    "symbol": "variableDebtUSDXL",
+    "decimals": 18
+  },
+  {
+    "contract": "0xa55de93cde5a34c5521b7584022846829cb74366",
+    "symbol": "hHyperEvmkHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0xb50a96253abdf803d85efcdce07ad8becbc52bd5",
+    "symbol": "USDHL",
+    "decimals": 6
+  },
+  {
+    "contract": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "symbol": "USD₮0",
+    "decimals": 6
+  },
+  {
+    "contract": "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+    "symbol": "UETH",
+    "decimals": 18
+  },
+  {
+    "contract": "0xc061d38903b99ac12713b550c2cb44b221674f94",
+    "symbol": "hbBTC",
+    "decimals": 8
+  },
+  {
+    "contract": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+    "symbol": "USDXL",
+    "decimals": 18
+  },
+  {
+    "contract": "0xcae9e2a86c146b084169e170e63d340bf34d6b83",
+    "symbol": "hykHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0xd2012c6dff7634f9513a56a1871b93e4505ea851",
+    "symbol": "hHyperEvmUBTC",
+    "decimals": 8
+  },
+  {
+    "contract": "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
+    "symbol": "mHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0xe16a14972bcde3f9bd637502c86384533f27da07",
+    "symbol": "variableDebtHyperEvmUBTC",
+    "decimals": 8
+  },
+  {
+    "contract": "0xe7eaa46c2ac8470d622ada1538fede6242cebe53",
+    "symbol": "LATINA",
+    "decimals": 18
+  },
+  {
+    "contract": "0xe9e70b7c9d108011c5ab15ce9bf6ef21d0cf8363",
+    "symbol": "PGAY",
+    "decimals": 6
+  },
+  {
+    "contract": "0xead19ae861c29bbb2101e834922b2feee69b9091",
+    "symbol": "PRJX-V3-POS",
+    "decimals": 0
+  },
+  {
+    "contract": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+    "symbol": "XAUt0",
+    "decimals": 6
+  },
+  {
+    "contract": "0xfc5126377f0efc0041c0969ef9ba903ce67d151e",
+    "symbol": "feUSDT0",
+    "decimals": 18
+  },
+  {
+    "contract": "0xfd32712a1cb152c03a62d54557fcb1de372abfe9",
+    "symbol": "hyUSDHL",
+    "decimals": 6
+  },
+  {
+    "contract": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+    "symbol": "kHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0xfde5b0626fc80e36885e2fa9cd5ad9d7768d725c",
+    "symbol": "haHYPE",
+    "decimals": 18
+  },
+  {
+    "contract": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+    "symbol": "stHYPE",
+    "decimals": 18
+  }
+]
