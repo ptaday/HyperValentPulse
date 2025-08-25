@@ -34,7 +34,7 @@ A sophisticated DeFi analytics dashboard that provides real-time insights into b
 
 ## Project Structure
 
-\`\`\`
+
 ├── app/
 │   ├── layout.tsx          # Root layout with theme provider
 │   ├── page.tsx            # Main dashboard component
@@ -46,7 +46,7 @@ A sophisticated DeFi analytics dashboard that provides real-time insights into b
 │   ├── statistics.json     # Aggregated market statistics
 │   └── llm_answers.json    # Individual transaction records with AI analysis
 └── README.md
-\`\`\`
+
 
 ## Getting Started
 
