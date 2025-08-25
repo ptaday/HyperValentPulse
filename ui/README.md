@@ -1,4 +1,4 @@
-# HyperValentPulse Insights Dashboard
+# HyperValentPulse Dashboard
 
 A sophisticated DeFi analytics dashboard that provides real-time insights into blockchain transactions with AI-powered market sentiment analysis.
 
